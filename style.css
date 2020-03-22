@@ -3,7 +3,3 @@ body {
   overflow-x: hidden;
   overflow-y: hidden;
 }
-
-canvas {
-  border: 1px solid black;
-}
